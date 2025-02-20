@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm K</h1>
+<h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisladaga" alt="chrisladaga" /></a> </p>
 
-- 🔭 I’m currently working on **sdaas**
+- 🔭 I’m currently working on **Mini Clean Business Solutions**
+
+- 🌱 I’m currently learning **JavaScript & ReactJS**
+
+- 📫 You can reach me by my email **chrismarieladaga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
