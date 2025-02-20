@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisladaga" alt="chrisladaga" /></a> </p>
 
-- 🔭 I’m currently working on **Mini Clean Business Solutions**
+- 🔭 I’m currently working as an **Intern**
 
 - 🌱 I’m currently learning **JavaScript & ReactJS**
 
